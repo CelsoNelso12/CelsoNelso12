@@ -82,4 +82,12 @@
     💡 Tecnologia é tática, código é estratégia — e juntos formam o time perfeito da inovação!
   </p>
 
+### 🎥 Destaques do Mengão
+
+[![Flamengo Gols Libertadores](https://img.youtube.com/vi/gLbn34M4OC0/hqdefault.jpg)](https://www.youtube.com/watch?v=gLbn34M4OC0)
+*🔥 Todos os gols do Flamengo na Libertadores — clique para assistir!*
+
+[![Flamengo vs Bayern](https://img.youtube.com/vi/vIS0eY_9aNo/hqdefault.jpg)](https://www.youtube.com/watch?v=vIS0eY_9aNo)
+*⚽ Grandes momentos contra o Bayern — veja os gols em detalhes!*
+
 </div>
