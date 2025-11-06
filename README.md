@@ -1,93 +1,68 @@
-<!-- 🌌 README - Tema Flamengo + Tecnologia da Informação -->
-<div align="center" style="background-color:#0D1117; padding:25px; border-radius:10px;">
+<!-- 🔥 README - Flamengo + Tecnologia da Informação -->
+<div align="center">
 
   <!-- Título animado -->
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&size=30&center=true&vCenter=true&width=600&lines=🔥+Bem-vindo+ao+Mundo+do+Flamengo+e+da+T.I.!;⚽+Paixão+Rubro-Negra+e+Tecnologia+em+Alta+Performance;💻+Desenvolvendo+Códigos+com+Garra+e+Determinação!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=800&color=FF0000&center=true&vCenter=true&width=600&lines=💻+Tecnologia+%2B+Futebol+%3D+Paix%C3%A3o;⚽+Flamengo+e+T.I.+em+alta+performance;🚀+Desenvolvendo+com+garra+rubro-negra!" alt="Typing Animation">
 
-  <!-- Escudo e Tema -->
+  <!-- Escudo do Flamengo -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Flamengo_braz_logo.svg" width="120" alt="Flamengo Logo">
 
-  <h2 style="color:#E50914;">❤️🖤 Clube de Regatas do Flamengo + Tecnologia da Informação 💻⚽</h2>
-  <p style="color:#BFBFBF; font-style:italic;">
-    “Unindo a garra rubro-negra à inovação da tecnologia — porque vencer é uma questão de código e paixão.”
+  <h2 style="color:#FF0000;">❤️🖤 Bem-vindo ao Universo Flamengo & Tecnologia 💻</h2>
+
+  <p style="color:#CCCCCC; max-width:700px;">
+    🔥 Desenvolvedor movido pela paixão pelo código e pelo <strong>Clube de Regatas do Flamengo</strong>.  
+    Misturando garra rubro-negra com lógica, inovação e performance —  
+    porque <em>ser dev é como ser torcedor: a cada erro, um aprendizado; a cada acerto, uma vitória!</em>
   </p>
 
-  <!-- Botões de Redes -->
+  <!-- Botões de contato -->
   <a href="https://www.linkedin.com/in/seu-usuario/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Conecte_se-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/seu-usuario" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Código_&_Projetos-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="mailto:seuemail@exemplo.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 
   <br><br>
 
-  <!-- Divisor -->
-  <img src="https://github.com/seu-usuario/seu-usuario/blob/main/assets/line-dark.svg" width="80%" alt="Divisor">
-  
-  <br>
+  <!-- GIFs do Flamengo -->
+  <h3 style="color:#FF0000;">🔥 O Mengão em ação!</h3>
+  <img src="https://media.tenor.com/BKzImh9M8S4AAAAC/flamengo-torcida.gif" width="350" alt="Torcida do Flamengo">
+  <img src="https://media.tenor.com/DGnkQY9lZgEAAAAC/flamengo-gol.gif" width="350" alt="Gol do Flamengo">
 
-  <!-- Sobre Mim -->
-  <h3 style="color:#E50914;">👨‍💻 Sobre Mim</h3>
+  <br><br>
+
+  <!-- Sobre mim -->
+  <h3 style="color:#FF0000;">👨‍💻 Sobre Mim</h3>
   <p style="color:#CCCCCC; max-width:700px;">
-    Sou um desenvolvedor apaixonado por tecnologia e futebol — especialmente pelo <strong>Flamengo</strong>!  
-    Aqui você encontrará projetos que unem **código limpo, automação, APIs, análise de dados** e muito mais.  
-    Assim como o Mengão busca títulos, busco sempre a **evolução constante** na T.I. ⚡
+    Sou um entusiasta de tecnologia com foco em <strong>desenvolvimento web</strong>, <strong>automação</strong> e <strong>análise de dados</strong>.  
+    Busco aplicar a mesma disciplina e paixão do <strong>Flamengo</strong> no meu código:  
+    sempre evoluindo, corrigindo falhas e buscando o melhor desempenho possível.  
   </p>
 
   <br>
 
-  <!-- Tecnologias -->
-  <h3 style="color:#E50914;">⚙️ Tecnologias e Ferramentas</h3>
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,react,git,github,linux,vscode,docker" alt="Tech Stack">
-  
-  <br><br>
-
-  <!-- Flamengo e Tecnologia -->
-  <h3 style="color:#E50914;">🏆 Flamengo x Tecnologia</h3>
-  <p style="color:#CCCCCC; max-width:700px;">
-    Assim como um sistema bem estruturado, o Flamengo também é feito de **estratégia, performance e trabalho em equipe**.  
-    No campo ou no terminal, a lógica é a mesma: **otimizar, analisar e vencer!**  
-    🚀 Transformando paixão em código desde 1895 (ou 0x769 em hexadecimal 😎).
-  </p>
-
-  <br>
-
-  <!-- Vídeos do Mengão -->
-  <h3 style="color:#E50914;">🎥 Momentos Épicos do Mengão</h3>
-
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/gLbn34M4OC0" title="Flamengo Gols Libertadores" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-  <br><br>
-
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/vIS0eY_9aNo" title="Flamengo vs Bayern - Copa do Mundo de Clubes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <!-- Stack de Tecnologias -->
+  <h3 style="color:#FF0000;">⚙️ Stack de Tecnologias</h3>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,docker,git,github,linux,vscode" alt="Tech Stack">
 
   <br><br>
 
   <!-- Estatísticas -->
-  <h3 style="color:#E50914;">📊 Estatísticas GitHub</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight&hide_border=true&title_color=FF0000&icon_color=FF0000" alt="GitHub Stats">
-
+  <h3 style="color:#FF0000;">📊 Minhas Estatísticas no GitHub</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical&title_color=FF0000&icon_color=FF0000&hide_border=true" alt="GitHub Stats">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario&theme=tokyonight&hide_border=true&fire=FF0000&ring=FF0000&currStreakLabel=FF0000" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=seu-usuario&theme=radical&hide_border=true&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" alt="GitHub Streak">
 
   <br><br>
 
-  <!-- Mensagem final -->
-  <h3 style="color:#E50914;">🔥 “Aqui é Flamengo, dentro e fora do campo!”</h3>
+  <!-- Mensagem Final -->
+  <h3 style="color:#FF0000;">🏁 “Na T.I. como no Flamengo: disciplina, paixão e vitória!”</h3>
   <p style="color:#AAAAAA;">
-    💡 Tecnologia é tática, código é estratégia — e juntos formam o time perfeito da inovação!
+    💡 <em>“O código é como o futebol — não basta entender as regras, é preciso jogar com o coração.”</em>
   </p>
-
-### 🎥 Destaques do Mengão
-
-[![Flamengo Gols Libertadores](https://img.youtube.com/vi/gLbn34M4OC0/hqdefault.jpg)](https://www.youtube.com/watch?v=gLbn34M4OC0)
-*🔥 Todos os gols do Flamengo na Libertadores — clique para assistir!*
-
-[![Flamengo vs Bayern](https://img.youtube.com/vi/vIS0eY_9aNo/hqdefault.jpg)](https://www.youtube.com/watch?v=vIS0eY_9aNo)
-*⚽ Grandes momentos contra o Bayern — veja os gols em detalhes!*
 
 </div>
